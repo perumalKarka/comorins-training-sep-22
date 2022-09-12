@@ -1,0 +1,9 @@
+.main1{
+    background-color: lightseagreen;
+    border: 10px solid darkblue;
+    width:250px;
+    height: 250px;
+    margin-left: 200px;
+    margin-top: 20px;
+    padding: 2px;
+}
