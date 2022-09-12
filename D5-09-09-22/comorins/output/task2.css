@@ -1,0 +1,12 @@
+.main .main1{
+    border: 2px solid slategray;
+    width:  7.7%;
+    height: 600px;
+    display: inline-block;
+    background-color: pink;
+}
+
+.main{
+    width: 100%;
+    padding: 0;
+}
